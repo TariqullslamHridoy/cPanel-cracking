@@ -1,10 +1,10 @@
 # cPanel-cracking
 
 
-# Log tool with checker
+Log tool with **checker**
 
-# May have backdoor / Virus
+# May have **backdoor / Virus**
 
-# Use on RDP/VPS
+**Use on RDP/VPS**
 
-# Use at your own risk
+Use at your own risk
