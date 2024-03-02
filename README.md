@@ -1,2 +1,10 @@
 # cPanel-cracking
-To crack others like wp-logins webmails smtps
+
+
+# Log tool with checker
+
+# May have backdoor / Virus
+
+# Use on RDP/VPS
+
+# Use at your own risk
